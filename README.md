@@ -18,7 +18,7 @@ I'm **André Luiz**, a Software Engineer based in Brazil.
 
 ### Currently working on
 
-- **Libreswan (IPsec VPN)** —> Adding packet statistics counters to Pluto IKE daemon; code reviewed, pending merge
+- **Libreswan (IPsec VPN)** —> Adding packet statistics counters to Pluto IKE daemon; code reviewed
 - **FreeBSD RPC & NFS** —> Implementing link-local IPv6 scope ID support in kernel RPC layer (`taddr2uaddr`/`uaddr2taddr`) to fix address conversion for `fe80::1%em0`-style addresses
 - **Linux Kernel** —> Upstream contributor; mentoring 5+ developers on C development workflow and patch submission
 
